@@ -1,0 +1,77 @@
+{
+  "Users": [
+    {
+      "firstname": "Jhansi",
+      "lastname": "Bhupathi",
+      "email": "jhansi@gmail.com",
+      "mobile": 6300322817,
+      "password": "jhansi747@",
+      "id": 1
+    },
+    {
+      "firstname": "hghgfhg",
+      "lastname": "hgfghf",
+      "email": "gfghf@gmail.com",
+      "mobile": 76465478646,
+      "password": "hjfhgfdhg",
+      "id": 2
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "jhansi747@",
+      "id": 3
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "wdwed",
+      "id": 14
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "Jhansi747@",
+      "id": 15
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "Jhansi747@",
+      "id": 16
+    },
+    {
+      "username": "jhansi@gmail.com",
+      "password": "Jhansi747@",
+      "id": 17
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "Jhansi747@",
+      "id": 18
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "Jhansi747@",
+      "id": 19
+    },
+    {
+      "username": "bhupathijhansi98@gmail.com",
+      "password": "Jhansi747@",
+      "id": 20
+    }
+  ],
+  "Employe": [
+    {
+      "firstname": "ftgyhj",
+      "lastname": "retyuh",
+      "id": 1
+    },
+    {
+      "firstname": "erty",
+      "lastname": "345654rt65",
+      "id": 2
+    },
+    {
+      "firstname": "Jaanu",
+      "lastname": "fghg",
+      "id": 3
+    }
+  ]
+}
